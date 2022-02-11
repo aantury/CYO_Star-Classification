@@ -1,2 +1,2 @@
 # CYO_Star-Classification
-Files for the Capstone Project: Movie Recommendation System
+Files for the Capstone CYO Project: Star Classification System
